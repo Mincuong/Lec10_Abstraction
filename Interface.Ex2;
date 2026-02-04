@@ -1,0 +1,12 @@
+package Lec10_Abstraction.Interface.Ex2;
+public class Circle implements Icolor{
+     public void fillColor() {
+        System.out.println("Drawing a Circle");
+    }
+
+  
+    public void drawShape() {
+        System.out.println("Filling the circle with green ");
+    }
+
+}
