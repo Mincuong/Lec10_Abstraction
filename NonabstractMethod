@@ -1,0 +1,9 @@
+package Lec10_Abstraction.AbstractClass.NonabstractMethod;
+
+public class Shape {
+    public void displayInfo() {
+        System.out.println("This is a Shape");
+    }
+
+
+}
