@@ -1,0 +1,5 @@
+package Lec10_Abstraction.Interface.Ex1;
+
+public interface Ishape {
+      void drawshape();
+}
