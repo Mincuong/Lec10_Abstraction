@@ -1,0 +1,6 @@
+package Lec10_Abstraction.Interface.MultInheritance;
+
+public interface IShape {
+     void drawShape();
+
+}
